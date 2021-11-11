@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+    background-color: white;
+}
+
+h1{
+    text-align: center;
+}
+
+#intro{
+    background-color: rgb(182, 220, 238);
+}
+
+#origami1{
+   background-color:lightcoral;
+}
+
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+.links {
+     display: inline;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-size: 18px;
+
+}
+
+.links:hover {
+    background-color: white;
+    font-size: 29px;
+}
+html{
+    scroll-behavior: smooth;
+}
+
